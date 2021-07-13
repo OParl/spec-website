@@ -55,7 +55,7 @@
     "laravel/horizon": "3.7.2",
     "laravel/slack-notification-channel": "^2.0",
     "laravel/tinker": "^2.4",
-    "markrogoyski/math-php": "^1.1.0",
+    "markrogoyski/math-php": "^2.2.0",
     "matomo/matomo-php-tracker": "^3.0",
     "phayes/geophp": "^1.2",
     "php-http/guzzle6-adapter": "^1.1",
